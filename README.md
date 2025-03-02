@@ -22,3 +22,8 @@ This project demonstrates the creation, containerization, and deployment of a Py
    - Accessed the application via the EC2 instance's public IP.
 
 ## Repository Structure
+├── app.py # Python Flask application
+├── Dockerfile # Dockerfile for containerizing the app
+├── README.md # Project documentation
+└── screenshots/ # (Optional) Screenshots of the app in action
+
