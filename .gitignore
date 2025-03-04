@@ -1,0 +1,17 @@
+# .gitignore
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Generated files
+*.txt
+*.plan
+
+# Sensitive files
+*.tfvars
+
+# Screenshots and documents
+*.docx
+*.png
