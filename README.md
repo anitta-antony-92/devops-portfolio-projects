@@ -16,6 +16,18 @@ This portfolio demonstrates my ability to design, implement, and maintain scalab
      - AWS EC2 deployment
      - GitHub Actions for CI/CD
    - **Project Repository**: [Link to Project](https://github.com/anitta-antony-92/devops-portfolio-projects/tree/master/project1-flask-docker-ec2)
+
+### 2. **Terraform AWS Infrastructure**
+   - **Description**: This project demonstrates how to provision a secure and scalable AWS infrastructure using Terraform. 
+   - **Technologies Used**: AWS EC2, VPC, S3, Terraform
+   - **Key Features**:
+     The infrastructure is defined using Terraform modules, making it modular, reusable, and easy to maintain.
+      - A Virtual Private Cloud for isolating resources.
+      - Virtual servers for running applications.
+      - A storage bucket for static files.
+      - Firewall rules for controlling traffic.
+
+- **Project Repository**: [Link to Project](https://github.com/anitta-antony-92/devops-portfolio-projects/tree/master/project2-terraform-aws-infrastructure)
 ---
 
 ## Technologies & Tools
