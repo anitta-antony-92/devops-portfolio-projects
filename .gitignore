@@ -15,3 +15,9 @@
 # Screenshots and documents
 *.docx
 *.png
+
+*.tf linguist-detectable=false  # Ignore Terraform files
+*.sh linguist-language=Shell    # Force Shell as the main language
+*.json linguist-documentation
+*.json linguist-detectable=false
+*.md linguist-detectable=false
